@@ -5,6 +5,7 @@ if not __name__.endswith("sample_config"):
     quit(1)
 
 
+
 # قم بإنشاء ملف config.py جديد في نفس الدليل واستيراد ، ثم قم بتوسيع هذه الفئة.
 class Config(object):
     LOGGER = True
